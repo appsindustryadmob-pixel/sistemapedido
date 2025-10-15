@@ -1,0 +1,1 @@
+[15-Oct-2025 12:40:11 America/Panama] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/d279606/suministrosselectos.online/clientearea/home.php on line 5
